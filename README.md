@@ -27,3 +27,18 @@ https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa
 - XGBoost Regressor 
 - XGBoost Regressor + GridSearchCV
 - LSTM
+
+# Metric
+
+- RMSE
+
+## Tech stack
+
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Sklearn
+- sqrt
+- Plotly
+- Keras
