@@ -17,6 +17,7 @@ https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa
 - Time Series resample
 - Missing Values
 - Atypical Values / Outliers
+- Interpolation Methods(Linear, Spline, Nearest, Time)
 - Autocorrelation
 - Seasonal Components (Additive / Multiplicative)
 - Residual histogram
