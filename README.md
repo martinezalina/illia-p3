@@ -1,8 +1,6 @@
-
 # AU Illia CABA
+
 #### Time Series Forecasting
-
-
 
 ## Objetivo
 
@@ -25,7 +23,7 @@ https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa
 ## Models
 
 - Benckmark: Pandas Rolling Windows Mean
-- XGBoost Regressor 
+- XGBoost Regressor
 - XGBoost Regressor + GridSearchCV
 - LSTM
 
